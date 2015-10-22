@@ -1,5 +1,6 @@
 class HomeController < ApplicationController
   def index
+    # homepage
   end
 
   def hook_test
